@@ -1,0 +1,106 @@
+{
+    "websiteName": "My Blog",
+    "posts": [
+      {
+        "id": 1,
+        "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+        "title": "Welcome to My Blog",
+        "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+        "author": "Jane Doe",
+        "posted_date": "2025-04-01",
+        "reading_time": "3 min read",
+        "hashtag": ["intro", "blog", "welcome"]
+      },
+      {
+        "id": 2,
+        "cover": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+        "title": "A Day in the Life",
+        "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+        "author": "John Smith",
+        "posted_date": "2025-04-03",
+        "reading_time": "4 min read",
+        "hashtag": ["lifestyle", "daily", "routine"]
+      },
+      {
+        "id": 3,
+        "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+        "title": "Tips for Learning JavaScript",
+        "author_img": "https://randomuser.me/api/portraits/women/50.jpg",
+        "author": "Emily Rose",
+        "posted_date": "2025-04-05",
+        "reading_time": "5 min read",
+        "hashtag": ["javascript", "learning", "webdev"]
+      },
+      {
+        "id": 4,
+        "cover": "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?q=80&w=1489&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "My Favorite Coding Tools",
+        "author_img": "https://randomuser.me/api/portraits/women/65.jpg",
+        "author": "Jane Doe",
+        "posted_date": "2025-04-07",
+        "reading_time": "3 min read",
+        "hashtag": ["tools", "developer", "productivity"]
+      },
+      {
+        "id": 5,
+        "cover": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?auto=format&fit=crop&w=800&q=80",
+        "title": "Top 5 Books Every Developer Should Read",
+        "author_img": "https://randomuser.me/api/portraits/men/33.jpg",
+        "author": "John Smith",
+        "posted_date": "2025-04-09",
+        "reading_time": "6 min read",
+        "hashtag": ["books", "reading", "developer"]
+      },
+      {
+        "id": 6,
+        "cover": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80",
+        "title": "What I Learned in 1 Year of Blogging",
+        "author_img": "https://randomuser.me/api/portraits/women/51.jpg",
+        "author": "Emily Rose",
+        "posted_date": "2025-04-10",
+        "reading_time": "4 min read",
+        "hashtag": ["blogging", "reflection", "growth"]
+      },
+      {
+        "id": 7,
+        "cover": "https://images.unsplash.com/photo-1555685812-4b943f1cb0eb?auto=format&fit=crop&w=800&q=80",
+        "title": "Simple CSS Tricks You Should Know",
+        "author_img": "https://randomuser.me/api/portraits/women/66.jpg",
+        "author": "Jane Doe",
+        "posted_date": "2025-04-12",
+        "reading_time": "3 min read",
+        "hashtag": ["css", "frontend", "design"]
+      },
+      {
+        "id": 8,
+        "cover": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=800&q=80",
+        "title": "Behind the Scenes: Building This Blog",
+        "author_img": "https://randomuser.me/api/portraits/men/34.jpg",
+        "author": "John Smith",
+        "posted_date": "2025-04-13",
+        "reading_time": "5 min read",
+        "hashtag": ["blog", "devlog", "techstack"]
+      },
+      {
+        "id": 9,
+        "cover": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=800&q=80",
+        "title": "Why I Love Frontend Development",
+        "author_img": "https://randomuser.me/api/portraits/women/52.jpg",
+        "author": "Emily Rose",
+        "posted_date": "2025-04-14",
+        "reading_time": "4 min read",
+        "hashtag": ["frontend", "career", "web"]
+      },
+      {
+        "id": 10,
+        "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+        "title": "How to Stay Motivated as a Developer",
+        "author_img": "https://randomuser.me/api/portraits/women/67.jpg",
+        "author": "Jane Doe",
+        "posted_date": "2025-04-15",
+        "reading_time": "5 min read",
+        "hashtag": ["motivation", "developer", "selfhelp"]
+      }
+    ]
+  }
+  

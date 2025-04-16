@@ -1,0 +1,1 @@
+cover, title, author_img, author, posted_date, reading_time,
